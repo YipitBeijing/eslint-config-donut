@@ -111,5 +111,9 @@ module.exports = {
     'react/no-unused-state': 'warn',
     'no-param-reassign': ['error', { props: false }],
     'class-methods-use-this': 0,
+    "react/jsx-wrap-multilines": [
+      "error",
+      { "arrow": true, "return": true, "declaration": true }
+    ]
   },
 };
