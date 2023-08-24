@@ -71,7 +71,7 @@ module.exports = {
     'import/no-cycle': 0,
     'no-bitwise': 0,
     // 'sonarjs/cognitive-complexity': 0,
-    // 'sonarjs/no-duplicate-string': 0,
+    'sonarjs/no-duplicate-string': 0,
     // 'sonarjs/no-identical-functions': 0,
     // 'sonarjs/no-collapsible-if': 'warn',
     'no-alert': 0,
