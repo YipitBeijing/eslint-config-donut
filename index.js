@@ -109,7 +109,7 @@ module.exports = {
     'react/destructuring-assignment': 0,
     'react/no-unused-prop-types': 1,
     'react/no-unused-state': 'warn',
-    'no-param-reassign': ['error', { props: false }],
+    'no-param-reassign': 0,
     'class-methods-use-this': 0,
     "react/jsx-wrap-multilines": [
       "error",
