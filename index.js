@@ -114,6 +114,7 @@ module.exports = {
     "react/jsx-wrap-multilines": [
       "error",
       { "arrow": true, "return": true, "declaration": true }
-    ]
+    ],
+    'sonarjs/no-duplicate-string': 0,
   },
 };
